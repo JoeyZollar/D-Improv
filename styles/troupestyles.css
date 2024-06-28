@@ -218,6 +218,29 @@ header {
 }
 
 /* Media Queries */
+@media (max-width: 860px) {
+    .top-content {
+        column-gap: 6px;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .title-container {
+        font-size: 24pt;
+    }
+
+    #logo {
+        width: 65px;
+    }
+
+    .title-content {
+        font-size: 16pt;
+    }
+
+    .main-content {
+        padding: 0px 10%;
+    }
+}
+
 @media (max-width: 1050px) {
     .main-content {
         grid-template-columns: 1fr;
