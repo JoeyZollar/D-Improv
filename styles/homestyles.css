@@ -385,8 +385,13 @@ header {
 }
 
 @media (max-width: 500px) {
-    #more-button, #meet-button{
-        padding: 10px 15px;
+    #more-button {
+        padding: 12px 15px;
+        font-size: 10pt;
+    }
+
+    #meet-button {
+        padding: 10px 13px;
         font-size: 10pt;
     }
 
