@@ -114,6 +114,11 @@ header {
     animation-iteration-count: 1;
 }
 
+#logoLink {
+    display: inline-block;
+    max-height: 100px;
+}
+
 /* Middle content styles */
 .middle-content {
     min-width: 250px;
@@ -342,6 +347,10 @@ header {
 
     #logo {
         width: 65px;
+    }
+
+    #logoLink {
+        max-height: 65px;
     }
 
     .middle-content {
