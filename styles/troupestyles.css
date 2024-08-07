@@ -93,6 +93,11 @@ header {
     animation-iteration-count: 1;
 }
 
+#logoLink {
+    display: inline-block;
+    max-height: 100px;
+}
+
 /* Title section styles */
 .title-content {
     text-align: center;
@@ -230,6 +235,10 @@ header {
 
     #logo {
         width: 65px;
+    }
+
+    #logoLink {
+        max-height: 65px;
     }
 
     .title-content {
