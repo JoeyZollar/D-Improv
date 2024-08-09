@@ -210,6 +210,7 @@ header {
     background-color: var(--charcoal);
     padding: 60px 8% 60px 8%;
     color: var(--white);
+    line-height: 20px;
 }
 
 .contact-title {
