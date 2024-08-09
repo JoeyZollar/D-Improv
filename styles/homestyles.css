@@ -58,6 +58,7 @@ body {
 
     background-color: var(--white);
     font-family: var(--font);
+    line-height: 24pt;
 }
 
 html {
@@ -149,11 +150,13 @@ header {
     animation-duration: 1s;
     animation-delay: .25s;
     animation-fill-mode: backwards;
+    line-height: 30pt;
 }
 
 .tagline-buttons {
     margin-top: 40px;
     white-space: nowrap;
+    line-height: 24pt;
 }
 
 #more-button {
@@ -317,6 +320,7 @@ header {
     background-color: var(--charcoal);
     padding: 60px 8% 60px 8%;
     color: var(--white);
+    line-height: 16pt;
 }
 
 .contact-title {
