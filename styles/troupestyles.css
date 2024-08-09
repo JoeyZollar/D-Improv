@@ -42,6 +42,7 @@ body {
 
     background-color: var(--white);
     font-family: var(--font);
+    line-height: 24pt;
 }
 
 html {
@@ -205,6 +206,7 @@ header {
     background-color: var(--charcoal);
     padding: 60px 8% 60px 8%;
     color: var(--white);
+    line-height: 16pt;
 }
 
 .contact-title {
