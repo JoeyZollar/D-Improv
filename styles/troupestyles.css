@@ -250,6 +250,10 @@ header {
     .main-content {
         padding: 0px 10%;
     }
+
+    body {
+        line-height: 20px;
+    }
 }
 
 @media (max-width: 1050px) {
